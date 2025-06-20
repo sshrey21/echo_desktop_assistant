@@ -45,4 +45,5 @@ git clone https://github.com/yourusername/echo-desktop-assistant.git
 cd echo-desktop-assistant
 pip install -r requirements.txt
 python main.py
-![ECHO Demo](echoGIF.gif)
+
+
